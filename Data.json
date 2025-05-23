@@ -1,0 +1,13 @@
+[
+    {
+        "imageUrl": "http://cdn.jsdelivr.net/gh/KITTI-Test/Picture_Game1/Dog.jpg",
+        "imageName": "description",
+        "text": "Dog"
+    },
+{
+        "imageUrl": "http://cdn.jsdelivr.net/gh/KITTI-Test/Picture_Game1/Cat.jpg",
+        "imageName": "description",
+        "text": "Cat"
+    }
+    // more items...
+]
