@@ -4,6 +4,28 @@
         "imageName": "description",
         "text": "Dog"
     },
+ {
+        "imageUrl": "http://cdn.jsdelivr.net/gh/KITTI-Test/Picture_Game1/Elep.jpg",
+        "imageName": "description",
+        "text": "Elephant"
+    },
+   {
+        "imageUrl": "http://cdn.jsdelivr.net/gh/KITTI-Test/Picture_Game1/Fi.jpg",
+        "imageName": "description",
+        "text": "Fish"
+    }, 
+    {
+        "imageUrl": "http://cdn.jsdelivr.net/gh/KITTI-Test/Picture_Game1/Hib.jpg",
+        "imageName": "description",
+        "text": "Hippopotamus"
+    },  
+   {
+        "imageUrl": "http://cdn.jsdelivr.net/gh/KITTI-Test/Picture_Game1/Mon.jpg",
+        "imageName": "description",
+        "text": "Monkey"
+    },  
+
+    
 {
         "imageUrl": "http://cdn.jsdelivr.net/gh/KITTI-Test/Picture_Game1/Cat.jpg",
         "imageName": "description",
