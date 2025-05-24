@@ -24,6 +24,26 @@
         "imageName": "description",
         "text": "Monkey"
     },  
+{
+        "imageUrl": "http://cdn.jsdelivr.net/gh/KITTI-Test/Picture_Game1/Tiger.jpg",
+        "imageName": "description",
+        "text": "Tiger"
+    },  
+ {
+        "imageUrl": "http://cdn.jsdelivr.net/gh/KITTI-Test/Picture_Game1/Zeb.jpg",
+        "imageName": "description",
+        "text": "Zebra"
+    },  
+{
+        "imageUrl": "http://cdn.jsdelivr.net/gh/KITTI-Test/Picture_Game1/gi.jpg",
+        "imageName": "description",
+        "text": "Giraffe"
+    },     
+  {
+        "imageUrl": "http://cdn.jsdelivr.net/gh/KITTI-Test/Picture_Game1/ke.jpg",
+        "imageName": "description",
+        "text": "Kangaroo"
+    },  
 
     
 {
